@@ -13,3 +13,8 @@
   - 세선화
   - 분기점
 ```
+
+------------
+### result
+|x_train|y_train|x_test|result|thinning|feature point|
+|:--:|:--:|:--:|:--:|:--:|:--:|
