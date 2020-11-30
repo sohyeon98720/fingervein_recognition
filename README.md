@@ -18,3 +18,4 @@
 ### result
 |x_train|y_train|x_test|result|thinning|feature point|
 |:--:|:--:|:--:|:--:|:--:|:--:|
+|원본|원본+정맥강조+이진화|원본|예측|세선화|분기점 검출|
