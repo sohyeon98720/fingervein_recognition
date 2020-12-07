@@ -11,13 +11,13 @@
   - 테스트
 <추가과정>
   - 세선화
-  - 분기점
+  - 분기점 검출
 ```
 
 -----------
 ### details of process
 - 세선화
-- 분
+- 분기점 검출
 ------------
 ### result
 |x_train|y_train|x_test|predict|thinning|bifurcation|
