@@ -14,6 +14,8 @@
   - 분기점
 ```
 
+-----------
+### details of process
 ------------
 ### result
 |x_train|y_train|x_test|predict|thinning|bifurcation|
