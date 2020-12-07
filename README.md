@@ -16,6 +16,8 @@
 
 -----------
 ### details of process
+- 세선화
+- 분
 ------------
 ### result
 |x_train|y_train|x_test|predict|thinning|bifurcation|
