@@ -15,7 +15,7 @@
 ```
 
 -----------
-### details of process
+### details of each process
 - 세선화
 - 분기점 검출
 ------------
