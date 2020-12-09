@@ -19,6 +19,7 @@
 - 세선화
     - 전경에 해당하는 물체의 표면을 벗겨 최종적인 두께가 1픽셀이 되도록 만드는 것
     - zhang-suen알고리즘 사용
+    - [참고자료-상세설명](http://blog.daum.net/ontologicallearning/6545339)
 - 분기점 검출
 ------------
 ### result
