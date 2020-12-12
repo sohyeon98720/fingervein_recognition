@@ -21,6 +21,8 @@
     - zhang-suen알고리즘 사용
     - [참고자료-상세설명](http://blog.daum.net/ontologicallearning/6545339)
 - 분기점 검출
+  - (기존 방식)
+  - (개선 방식)
 ------------
 ### result
 |x_train|y_train|
