@@ -26,7 +26,7 @@
 |x_train|y_train|x_test|predict|thinning|bifurcation|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |원본|원본+정맥강조+이진화|원본|예측|세선화|분기점 검출|
-|![image](https://user-images.githubusercontent.com/47767202/101986472-519ce400-3cd1-11eb-9a43-040be2b1606d.png)|![image](https://user-images.githubusercontent.com/47767202/101986486-68433b00-3cd1-11eb-868e-9836d9afd1e4.png)|![image](https://user-images.githubusercontent.com/47767202/101986504-7d1fce80-3cd1-11eb-986d-b8c5078192d9.png)|![image](https://user-images.githubusercontent.com/47767202/101986512-8741cd00-3cd1-11eb-82d2-e4e11ee1d45f.png)
+|![image](https://user-images.githubusercontent.com/47767202/101986472-519ce400-3cd1-11eb-9a43-040be2b1606d.png)|![image](https://user-images.githubusercontent.com/47767202/101986486-68433b00-3cd1-11eb-868e-9836d9afd1e4.png)|![image](https://user-images.githubusercontent.com/47767202/101986504-7d1fce80-3cd1-11eb-986d-b8c5078192d9.png)|![image](https://user-images.githubusercontent.com/47767202/101986512-8741cd00-3cd1-11eb-82d2-e4e11ee1d45f.png)|![image](https://user-images.githubusercontent.com/47767202/101986524-988ad980-3cd1-11eb-9723-1d16591392f5.png)|![image](https://user-images.githubusercontent.com/47767202/101986528-a17bab00-3cd1-11eb-8405-de2b4d87f9dd.png)|
 
 
 --------------
