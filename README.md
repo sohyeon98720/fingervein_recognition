@@ -26,6 +26,7 @@
 |x_train|y_train|x_test|predict|thinning|bifurcation|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |원본|원본+정맥강조+이진화|원본|예측|세선화|분기점 검출|
+|![image](https://user-images.githubusercontent.com/47767202/101986472-519ce400-3cd1-11eb-9a43-040be2b1606d.png)|![image](https://user-images.githubusercontent.com/47767202/101986486-68433b00-3cd1-11eb-868e-9836d9afd1e4.png)|
 
 --------------
 ### paper submission
