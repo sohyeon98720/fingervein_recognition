@@ -49,4 +49,6 @@ x_test|predict|thinning|bifurcation|
 --------------
 ### paper submission
 Finger vein image enhancement using U-Net <br>
+ICNCT 2021 Session H : Bio/Health Converge
 http://www.i-inca.org/
+
